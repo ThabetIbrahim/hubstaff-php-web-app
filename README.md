@@ -1,6 +1,6 @@
 # Hubstaff PHP - Integrate Hubstaff API Into Your PHP App
 
-## Using the Hubstaff Ruby API client
+## Using the Hubstaff PHP client
 
 **Step 1:** include `hubstaff.php` to your php project`.
 
