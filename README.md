@@ -2,7 +2,7 @@
 
 ## Using the Hubstaff PHP client
 
-**Step 1:** include `hubstaff.php` to your php project`.
+**Step 1:** include `hubstaff.php` to your php project.
 
 ```php
 require_once APPPATH.'third_party/hubstaff/hubstaff.php';
